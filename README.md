@@ -2,6 +2,7 @@
 
 Stock Price Prediction using Python and YFinance
 This repository contains a Python project for predicting stock prices using the Yfinance library. The project uses machine learning techniques to predict future stock prices based on historical data.
+
 Dataset
 
 The dataset used in this project is obtained by importing stock price data using the Yfinance library. The data is fetched from Yahoo Finance and is reliable for analysis. The dataset contains information about the stock prices of a particular company such as the open, high, low, and close prices.
