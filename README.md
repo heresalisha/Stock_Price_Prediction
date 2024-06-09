@@ -10,9 +10,8 @@ Repository Contents
 
 stock_price_prediction.ipynb: Jupyter Notebook file containing the code and analysis for the project.
 
-README.md: This file.
 
-Getting Started
+
 To run the code in this project, you will need to have Python and Jupyter Notebook installed on your computer. You will also need to install the following libraries:
 
 yfinance
